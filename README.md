@@ -34,6 +34,6 @@ Includes secure defaults, structured code, and ready-to-use admin APIs.
 
 - Method: PATCH api/users/<USER_ID> (Admin – Update User Role/Status)
 
--Method: DELETE api/users/<USER_ID> (Admin – Delete User)
+- Method: DELETE api/users/<USER_ID> (Admin – Delete User)
 
--Method: GET api/health (Health Check)
+- Method: GET api/health (Health Check)
